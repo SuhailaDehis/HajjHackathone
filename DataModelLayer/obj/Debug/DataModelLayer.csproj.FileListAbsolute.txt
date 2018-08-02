@@ -1,0 +1,5 @@
+F:\HajjManagementSystem\WebApplication\DataModelLayer\bin\Debug\DataModelLayer.dll
+F:\HajjManagementSystem\WebApplication\DataModelLayer\bin\Debug\DataModelLayer.pdb
+F:\HajjManagementSystem\WebApplication\DataModelLayer\obj\Debug\DataModelLayer.csprojResolveAssemblyReference.cache
+F:\HajjManagementSystem\WebApplication\DataModelLayer\obj\Debug\DataModelLayer.dll
+F:\HajjManagementSystem\WebApplication\DataModelLayer\obj\Debug\DataModelLayer.pdb

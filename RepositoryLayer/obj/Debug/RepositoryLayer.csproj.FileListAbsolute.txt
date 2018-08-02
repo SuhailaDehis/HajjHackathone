@@ -1,0 +1,11 @@
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\ContextLayer.dll
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\EntityFramework.dll
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\ContextLayer.pdb
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\EntityFramework.xml
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\obj\Debug\RepositoryLayer.csprojResolveAssemblyReference.cache
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+F:\HajjManagementSystem\WebApplication\RepositoryLayer\obj\Debug\RepositoryLayer.pdb

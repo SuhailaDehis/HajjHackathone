@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajjMangementSystem", "HajjMangementSystem\HajjMangementSystem.csproj", "{B4C24CC4-3DA9-4755-8D63-6626E186ED55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryLayer", "RepositoryLayer\RepositoryLayer.csproj", "{430EED7C-76D0-4560-A666-AB5F6E52F868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextLayer", "ContextLayer\ContextLayer.csproj", "{FD44E0F4-73FE-47B3-909E-27C623BB18E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModelLayer", "DataModelLayer\DataModelLayer.csproj", "{881BA7FF-532B-4032-A9CD-7C0E251F2343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{DF7A1A8E-0535-4591-9326-4AD3B529526B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C24CC4-3DA9-4755-8D63-6626E186ED55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C24CC4-3DA9-4755-8D63-6626E186ED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C24CC4-3DA9-4755-8D63-6626E186ED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C24CC4-3DA9-4755-8D63-6626E186ED55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430EED7C-76D0-4560-A666-AB5F6E52F868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430EED7C-76D0-4560-A666-AB5F6E52F868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430EED7C-76D0-4560-A666-AB5F6E52F868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430EED7C-76D0-4560-A666-AB5F6E52F868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD44E0F4-73FE-47B3-909E-27C623BB18E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD44E0F4-73FE-47B3-909E-27C623BB18E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD44E0F4-73FE-47B3-909E-27C623BB18E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD44E0F4-73FE-47B3-909E-27C623BB18E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881BA7FF-532B-4032-A9CD-7C0E251F2343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881BA7FF-532B-4032-A9CD-7C0E251F2343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881BA7FF-532B-4032-A9CD-7C0E251F2343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881BA7FF-532B-4032-A9CD-7C0E251F2343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7A1A8E-0535-4591-9326-4AD3B529526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7A1A8E-0535-4591-9326-4AD3B529526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7A1A8E-0535-4591-9326-4AD3B529526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7A1A8E-0535-4591-9326-4AD3B529526B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mohamedkhamis182013.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HajjMangementSystem\\HajjMangementSystem.csproj
+		SccProjectName1 = HajjMangementSystem
+		SccLocalPath1 = HajjMangementSystem
+		SccProjectUniqueName2 = RepositoryLayer\\RepositoryLayer.csproj
+		SccProjectName2 = RepositoryLayer
+		SccLocalPath2 = RepositoryLayer
+		SccProjectUniqueName3 = ContextLayer\\ContextLayer.csproj
+		SccProjectName3 = ContextLayer
+		SccLocalPath3 = ContextLayer
+		SccProjectUniqueName4 = DataModelLayer\\DataModelLayer.csproj
+		SccProjectName4 = DataModelLayer
+		SccLocalPath4 = DataModelLayer
+		SccProjectUniqueName5 = ServiceLayer\\ServiceLayer.csproj
+		SccProjectName5 = ServiceLayer
+		SccLocalPath5 = ServiceLayer
+	EndGlobalSection
+EndGlobal
